@@ -1,0 +1,20 @@
+= Getting Started With Spring REST Docs
+
+This is an example output for a service running at http://localhost:8080:
+
+.CreateOrderRequest
+include::{snippets}/create/http-response.adoc[]
+
+.CreateOrderResponse
+include::{snippets}/create/http-response.adoc[]
+
+*dsd* +
+dsds +
+_*sd*_ +
+**C**reate +
+##Mark##up +
+"`double curved quotes`" +
+'`single curved quotes`' +
+link:C:/Users/volodymyr.zabolotniy/Downloads/restassured/src/main/java/com/restdoc/restassured/Controller.java[Docs]
+
+include::C:/Users/volodymyr.zabolotniy/Downloads/restassured/src/main/java/com/restdoc/restassured/Controller.java[lines=1..10]
